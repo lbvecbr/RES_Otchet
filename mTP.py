@@ -1,5 +1,6 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
+# dimon
 
 class TP(object):
     def __init__(self, nomerTP, nomer_schetchika, koeficient):
