@@ -1,6 +1,6 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
-# dimon
+
 
 class TP(object):
     def __init__(self, nomerTP, nomer_schetchika, koeficient):
@@ -15,7 +15,7 @@ class TP(object):
 
     @prediduschie.setter
     def prediduschie(self, value):
-        self.__Prediduschie = value    \
+        self.__Prediduschie = value
 
     @property
     def prediduschie(self):
