@@ -1,0 +1,1 @@
+{'grigorivske': 7320, 'common': 7737, 'komplex': 0, 'mtf': 14461, 'tik': 5470, 'maisterna': 244998, 'tr.br1': 89716, 'stf': 2909, 'str.ceh': 63610, 'zernosklad': 23986, 'tr.br3': 82282, 'kontora': 143913, 'lotok': 1870}
