@@ -22,8 +22,8 @@ class Initial_Data(object):
                         'tik': 0, 'maisterna': 0, 'tr.br1': 0, 'stf': 0, 'str.ceh': 0,
                         'zernosklad': 0, 'tr.br3': 0, 'kontora': 0, 'lotok': 0}
 
-        self.coeficients = {'grigorivske': 1, 'common': 30, 'komplex': 1, 'mtf': 30,
-                        'tik': 60, 'maisterna': 1, 'tr.br1': 1, 'stf': 40, 'str.ceh': 1,
+        self.coeficients = {'grigorivske': 1, 'common': 30, 'komplex': 1, 'mtf': 1,
+                        'tik': 60, 'maisterna': 1, 'tr.br1': 1, 'stf': 1, 'str.ceh': 1,
                         'zernosklad': 1, 'tr.br3': 1, 'kontora': 1, 'lotok': 1}
 
         self.difference = {'grigorivske': 0, 'common': 0, 'komplex': 0, 'mtf': 0,
